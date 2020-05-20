@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_gzK90ZqFEeqSJLyA5nQOww" label="PROJECT_1" description="LaSalle" language="java" technicalLabel="PROJECT_1" author="_gzK90pqFEeqSJLyA5nQOww" productVersion="Talend Cloud Data Management Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ckumarbn/TMC-CLOUD&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_hItwAJqFEeqSJLyA5nQOww" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_gzK90pqFEeqSJLyA5nQOww" login="divyasraj25@trial29282.us.talend.com" firstName="Chandan" lastName="Kumar" type="DQ"/>
+</xmi:XMI>
